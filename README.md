@@ -38,8 +38,8 @@ The goal here to analyze the performance of multiple
 rewards used for training the system to maximize the perfor-
 mance of the system.
 
-This paper discusses the reward shaping for a
-modifies version of the Arthur’s bar problem, where the N
+In this work, I discuss the reward shaping for a
+modified version of the Arthur’s bar problem, where the N
 agents pick one out of K nights to attend the bar every week.
 Each agent gets a local reward based on the action it takes and
 the action that other agents take, since the local reward of an
@@ -52,8 +52,9 @@ further, discuss the factoredness and learnability of each of
 these rewards and how the system performance is changed
 by each of these, and how the system performance deviates
 from the optimal value (optimal attendance specified by the
-bar), with each of these rewards The paper discusses all these
+bar), with each of these rewards. I discuss all these
 parameters with the simulation results of two specific cases,
 each with different numbers of agents (N), nights available in
 a week (k) and the optimal attendance (b) at each night. The
 results are observations are demonstrated with the plots.
+
